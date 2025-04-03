@@ -1,0 +1,150 @@
+skill,required_optional,type
+Python,Required,Technical
+R,Required,Technical
+SQL,Required,Technical
+dashboard development,Required,Technical
+automation,Required,Technical
+data Analysis,Required,Technical
+problem-solving,Required,Technical
+data interpretation,Required,Technical
+presentation,Required,Soft
+verbal communication,Required,Soft
+written communication,Required,Soft
+collaboration ,Required,Soft
+distributed data processing,Required,Technical
+machine learning,Required,Technical
+communication,Required,Soft
+cloud computing,Required,Technical
+data infrastructure,Required,Technical
+Python,Required,Technical
+FastAPI,Required,Technical
+C,Required,Technical
+PHP,Required,Technical
+Smarty Template Engine,Required,Technical
+JavaScript,Required,Technical
+Bootstrap,Required,Technical
+HTML5,Required,Technical
+CSS,Required,Technical
+Oracle,Required,Technical
+MSSQL,Required,Technical
+MongoDB,Required,Technical
+GUIs,Required,Technical
+Android and iOS applications,Required,Technical
+software lifecycle,Required,Technical
+collaboration ,Required,Soft
+problem-solving,Required,Soft
+analytical mindset,Required,Soft
+ETL,Required,Technical
+ELT,Required,Technical
+SQL,Required,Technical
+Data Modeling,Required,Technical
+Data Engineering,Required,Technical
+Airlfow,Required,Technical
+workflow orchestration,Required,Technical
+AWS S3,Required,Technical
+AWS Redshift,Required,Technical
+AWS RDS,Required,Technical
+DBT,Optional,Technical
+real-time processing,Optional,Technical
+Python,Required,Technical
+ML,Required,Technical
+AI,Required,Technical
+LangChain,Required,Technical
+TensorFLow,Required,Technical
+SQL,Required,Technical
+Python,Required,Technical
+Git,Required,Technical
+Data Modeling,Required,Technical
+BI Sigma,Required,Technical
+BI Hex,Required,Technical
+data analytics,Required,Technical
+data workflows,Required,Technical
+communication,Required,Soft
+business concepts,Required,Soft
+ problem-solver ,Required,Soft
+ self-starter,Required,Soft
+CRM software,Required,Technical
+C#,Required,Technical
+SDKs,Required,Technical
+SQL,Required,Technical
+Microsoft SQL Server,Required,Technical
+JavaScript,Required,Technical
+Leadership,Required,Soft
+Quality Assurance,Required,Technical
+communication,Required,Soft
+Azure,Optional,Technical
+DevOps,Optional,Technical
+APIs,Optional,Technical
+CI/CD,Optional,Technical
+ .NET,Required,Technical
+VBA,Required,Technical
+C,Required,Technical
+JavaScript,Required,Technical
+RESTful API,Required,Technical
+Agile,Required,Technical
+AWS,Required,Technical
+MySQL,Required,Technical
+teamwork,Required,Soft
+SQL ,Required,Technical
+JavaScript,Required,Technical
+Information security,Required,Technical
+Artificial Intelligence,Optional,Technical
+Python,Required,Technical
+System design,Optional,Technical
+Git,Optional,Technical
+Linux,Optional,Technical
+Windows,Optional,Technical
+communication,Optional,Soft
+ iOS development ,Required,Technical
+Object-Oriented Programming,Required,Technical
+REST APIs,Required,Technical
+C,Optional,Technical
+WebSockets,Optional,Technical
+git,Optional,Technical
+Scala,Required,Technical
+Python,Required,Technical
+SQL,Required,Technical
+Linux,Required,Technical
+CRM software,Required,Technical
+salesforce,Required,Technical
+Agile,Required,Technical
+scrum,Required,Technical
+Java,Required,Technical
+JSNO,Required,Technical
+DB2,Required,Technical
+MySQL,Required,Technical
+SQL,Required,Technical
+Apache,Required,Technical
+Tomcat,Required,Technical
+Warehouse Management Systems,Required,Technical
+ERP software,Required,Technical
+Scala,Required,Technical
+IT,Required,Technical
+AWS,Required,Technical
+Oracle,Required,Technical
+SharePoint,Required,Technical
+SparkSQL,Required,Technical
+ PySpark,Required,Technical
+Python,Required,Technical
+C#,Required,Technical
+C,Required,Technical
+SQL,Required,Technical
+Python,Required,Technical
+NoSQL,Optional,Technical
+Java,Optional,Technical
+Algorithms,Optional,Technical
+APIs,Required,Technical
+Git,Optional,Technical
+Data Structures ,Optional,Technical
+Agile,Optional,Technical
+C++,Optional,Technical
+problem-solving,Required,Soft
+Microsoft SQL Server,Required,Technical
+HTML,Required,Technical
+Git,Required,Technical
+JavaScript,Required,Technical
+CSS,Optional,Technical
+communication,Optional,Soft
+Git,Required,Technical
+C#,Required,Technical
+SVN,Required,Technical
