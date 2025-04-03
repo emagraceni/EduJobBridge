@@ -1,0 +1,30 @@
+skill,required_elective
+Java,Required
+Data Structures,Required
+Advanced Programming,Required
+Discrete Mathematics,Required
+CS Theory,Required
+Computer Systems,Required
+Linear Algebra,Required
+Probability,Required
+Databases,Elective
+Distributed Systems,Elective
+Programming Languages,Elective
+Operating Systems,Elective
+Computer Networks,Elective
+Software-as-a-Service,Elective
+Software Engineering,Elective
+Computer Graphics,Elective
+Computer Animation,Elective
+User Interface Design,Elective
+Security,Elective
+Algorithms,Elective
+Computational Complexity,Elective
+Artificial Intelligence,Elective
+Natural Language Processing,Elective
+Computer Vision,Elective
+Robotics,Elective
+Computational Genomics,Elective
+Machine Learning,Elective
+Computer Architecture,Elective
+System-on-Chip Platforms,Elective
