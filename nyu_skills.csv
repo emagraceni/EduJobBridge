@@ -1,0 +1,36 @@
+skill,required_elective
+Python,Required
+Problem Solving,Required
+Optimization,Required
+I/O Devices,Required
+Assembly Language Programs,Required
+Computer Architecture,Required
+Data Structures,Required
+Communication,Required
+Cloud Computing,Required
+Agile Methodologies,Required
+Matlab,Required
+Devops,Elective
+Application Architecture,Elective
+Full-Stack Development,Elective
+Client-Side Interactivity,Elective
+Nlp,Elective
+C++,Elective
+Java,Elective
+Ai,Elective
+Machine Learning,Elective
+Linux,Elective
+Sql,Elective
+Hadoop,Elective
+Apache,Elective
+Spark,Elective
+Encryption,Elective
+Cloud Databases,Elective
+Computer Vision,Elective
+Operating Systems,Required
+Algorithms,Required
+Discrete Mathematics,Required
+Calculus,Required
+Software Engineering,Elective
+Artificial Intelligence,Elective
+Machine Learning,Elective
