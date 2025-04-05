@@ -1,0 +1,24 @@
+skill,required_elective
+Python,Required
+Problem Solving,Required
+Optimization,Required
+Probability,Required
+Statistics,Required
+Java,Required
+I/O Devices,Required
+Assembly Language Prorgrams,Required
+Computer Architecture,Required
+Parallel Processing,Required
+Abstract Data Types,Required
+Data Structures,Required
+Communication,Required
+Distributed Systems,Required
+File Systmes Interface,Required
+Network Programming,Required
+Internet,Required
+Cloud Computing,Required
+Web Services,Required
+Aws,Required
+Agile Methodologies,Required
+Bioinformatics,Elective
+Etl,Required
