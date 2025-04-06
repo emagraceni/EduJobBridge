@@ -1,7 +1,7 @@
 
 import streamlit as st
 import pandas as pd
-from scripts.score_calculator import calculate_program_score
+from score_calculator import calculate_program_score
 
 st.set_page_config(page_title="🎓 EduJobBridge", layout="wide")
 
