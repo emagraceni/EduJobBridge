@@ -1,7 +1,7 @@
 
 # 🧠 EduJobBridge
 
-**EduJobBridge** is a data-driven tool that evaluates how well university software engineering programs prepare students for industry-required skills.
+**EduJobBridge** is a data-driven tool that evaluates how well university computer science programs prepare students for industry-required skills.
 
 It compares course offerings from schools like **Columbia**, **Pace**, and **NYU** against in-demand skills gathered from real job listings on platforms like LinkedIn and Indeed.
 
