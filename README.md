@@ -73,6 +73,5 @@ Want to help add more schools? Improve the UI? Automate scraping? You’re welco
 ## 📚 Credits
 
 Created by **@emagraceni** as part of an academic + portfolio project.  
-Mentored and supported by ChatGPT ❤️
 
 ---
