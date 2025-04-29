@@ -96,3 +96,4 @@ def calculate_program_score(job_skills_df, program_skills_df):
         'missing_skills': missing_skills,
         'top_skills': job_skills_df['Skill'].value_counts().head(10)
     }
+
