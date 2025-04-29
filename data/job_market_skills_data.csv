@@ -1,150 +1,232 @@
-skill,required_optional,type
-Python,Required,Technical
-R,Required,Technical
-SQL,Required,Technical
-dashboard development,Required,Technical
-automation,Required,Technical
-data Analysis,Required,Technical
-problem-solving,Required,Technical
-data interpretation,Required,Technical
-presentation,Required,Soft
-verbal communication,Required,Soft
-written communication,Required,Soft
-collaboration ,Required,Soft
-distributed data processing,Required,Technical
-machine learning,Required,Technical
-communication,Required,Soft
-cloud computing,Required,Technical
-data infrastructure,Required,Technical
-Python,Required,Technical
-FastAPI,Required,Technical
-C,Required,Technical
-PHP,Required,Technical
-Smarty Template Engine,Required,Technical
-JavaScript,Required,Technical
-Bootstrap,Required,Technical
-HTML5,Required,Technical
-CSS,Required,Technical
-Oracle,Required,Technical
-MSSQL,Required,Technical
-MongoDB,Required,Technical
-GUIs,Required,Technical
-Android and iOS applications,Required,Technical
-software lifecycle,Required,Technical
-collaboration ,Required,Soft
-problem-solving,Required,Soft
-analytical mindset,Required,Soft
-ETL,Required,Technical
-ELT,Required,Technical
-SQL,Required,Technical
-Data Modeling,Required,Technical
-Data Engineering,Required,Technical
-Airlfow,Required,Technical
-workflow orchestration,Required,Technical
-AWS S3,Required,Technical
-AWS Redshift,Required,Technical
-AWS RDS,Required,Technical
-DBT,Optional,Technical
-real-time processing,Optional,Technical
-Python,Required,Technical
-ML,Required,Technical
-AI,Required,Technical
-LangChain,Required,Technical
-TensorFLow,Required,Technical
-SQL,Required,Technical
-Python,Required,Technical
-Git,Required,Technical
-Data Modeling,Required,Technical
-BI Sigma,Required,Technical
-BI Hex,Required,Technical
-data analytics,Required,Technical
-data workflows,Required,Technical
-communication,Required,Soft
-business concepts,Required,Soft
- problem-solver ,Required,Soft
- self-starter,Required,Soft
-CRM software,Required,Technical
-C#,Required,Technical
-SDKs,Required,Technical
-SQL,Required,Technical
-Microsoft SQL Server,Required,Technical
-JavaScript,Required,Technical
-Leadership,Required,Soft
-Quality Assurance,Required,Technical
-communication,Required,Soft
-Azure,Optional,Technical
-DevOps,Optional,Technical
-APIs,Optional,Technical
-CI/CD,Optional,Technical
- .NET,Required,Technical
-VBA,Required,Technical
-C,Required,Technical
-JavaScript,Required,Technical
-RESTful API,Required,Technical
-Agile,Required,Technical
-AWS,Required,Technical
-MySQL,Required,Technical
-teamwork,Required,Soft
-SQL ,Required,Technical
-JavaScript,Required,Technical
-Information security,Required,Technical
-Artificial Intelligence,Optional,Technical
-Python,Required,Technical
-System design,Optional,Technical
-Git,Optional,Technical
-Linux,Optional,Technical
-Windows,Optional,Technical
-communication,Optional,Soft
- iOS development ,Required,Technical
-Object-Oriented Programming,Required,Technical
-REST APIs,Required,Technical
-C,Optional,Technical
-WebSockets,Optional,Technical
-git,Optional,Technical
-Scala,Required,Technical
-Python,Required,Technical
-SQL,Required,Technical
-Linux,Required,Technical
-CRM software,Required,Technical
-salesforce,Required,Technical
-Agile,Required,Technical
-scrum,Required,Technical
-Java,Required,Technical
-JSNO,Required,Technical
-DB2,Required,Technical
-MySQL,Required,Technical
-SQL,Required,Technical
-Apache,Required,Technical
-Tomcat,Required,Technical
-Warehouse Management Systems,Required,Technical
-ERP software,Required,Technical
-Scala,Required,Technical
-IT,Required,Technical
-AWS,Required,Technical
-Oracle,Required,Technical
-SharePoint,Required,Technical
-SparkSQL,Required,Technical
- PySpark,Required,Technical
-Python,Required,Technical
-C#,Required,Technical
-C,Required,Technical
-SQL,Required,Technical
-Python,Required,Technical
-NoSQL,Optional,Technical
-Java,Optional,Technical
-Algorithms,Optional,Technical
-APIs,Required,Technical
-Git,Optional,Technical
-Data Structures ,Optional,Technical
-Agile,Optional,Technical
-C++,Optional,Technical
-problem-solving,Required,Soft
-Microsoft SQL Server,Required,Technical
-HTML,Required,Technical
-Git,Required,Technical
-JavaScript,Required,Technical
-CSS,Optional,Technical
-communication,Optional,Soft
-Git,Required,Technical
-C#,Required,Technical
-SVN,Required,Technical
+﻿Skill,Required_Optional,Technical_Soft,Source_Job_Title
+Python,Required,Technical,Software Engineer (Entry Level)
+Java,Required,Technical,Software Engineer (Entry Level)
+Problem-solving,Required,Soft,Software Engineer (Entry Level)
+Communication,Required,Soft,Software Engineer (Entry Level)
+Git/GitHub,Required,Technical,Software Engineer (Entry Level)
+Agile Methodologies,Required,Technical,Software Engineer (Entry Level)
+REST APIs,Required,Technical,Junior Software Developer
+JavaScript,Required,Technical,Junior Software Developer
+Teamwork,Required,Soft,Junior Software Developer
+Unit Testing,Required,Technical,Junior Software Developer
+Problem-solving,Required,Soft,Junior Software Developer
+Test Automation,Required,Technical,QA Engineer
+Selenium,Required,Technical,QA Engineer
+"Bug Tracking Tools (e.g., JIRA)",Required,Technical,QA Engineer
+Attention to Detail,Required,Soft,QA Engineer
+Written Communication,Required,Soft,QA Engineer
+HTML/CSS,Required,Technical,Web Developer (Entry Level)
+Responsive Design,Required,Technical,Web Developer (Entry Level)
+JavaScript,Required,Technical,Web Developer (Entry Level)
+React.js,Optional,Technical,Web Developer (Entry Level)
+Version Control Systems,Required,Technical,Web Developer (Entry Level)
+SQL,Required,Technical,Application Support Engineer
+Troubleshooting,Required,Soft,Application Support Engineer
+Customer Service,Required,Soft,Application Support Engineer
+Technical Documentation,Optional,Technical,Application Support Engineer
+Problem-solving,Required,Soft,Application Support Engineer
+Python,Required,Technical,Software Engineer (Entry Level)
+R,Required,Technical,Software Engineer (Entry Level)
+SQL,Required,Technical,Software Engineer (Entry Level)
+dashboard development,Required,Technical,Software Engineer (Entry Level)
+automation,Required,Technical,Software Engineer (Entry Level)
+data Analysis,Required,Technical,Software Engineer (Entry Level)
+problem-solving,Required,Technical,Software Engineer (Entry Level)
+data interpretation,Required,Technical,Software Engineer (Entry Level)
+presentation,Required,Soft,Software Engineer (Entry Level)
+verbal communication,Required,Soft,Software Engineer (Entry Level)
+written communication,Required,Soft,Software Engineer (Entry Level)
+collaboration ,Required,Soft,Software Engineer (Entry Level)
+distributed data processing,Required,Technical,Software Engineer (Entry Level)
+machine learning,Required,Technical,Software Engineer (Entry Level)
+communication,Required,Soft,Software Engineer (Entry Level)
+cloud computing,Required,Technical,Software Engineer (Entry Level)
+data infrastructure,Required,Technical,Software Engineer (Entry Level)
+Python,Required,Technical,Software Engineer (Entry Level)
+FastAPI,Required,Technical,Software Engineer (Entry Level)
+C,Required,Technical,Software Engineer (Entry Level)
+PHP,Required,Technical,Software Engineer (Entry Level)
+Smarty Template Engine,Required,Technical,Software Engineer (Entry Level)
+JavaScript,Required,Technical,Software Engineer (Entry Level)
+Bootstrap,Required,Technical,Software Engineer (Entry Level)
+HTML5,Required,Technical,Software Engineer (Entry Level)
+CSS,Required,Technical,Software Engineer (Entry Level)
+Oracle,Required,Technical,Software Engineer (Entry Level)
+MSSQL,Required,Technical,Software Engineer (Entry Level)
+MongoDB,Required,Technical,Software Engineer (Entry Level)
+GUIs,Required,Technical,Software Engineer (Entry Level)
+Android and iOS applications,Required,Technical,Software Engineer (Entry Level)
+software lifecycle,Required,Technical,Software Engineer (Entry Level)
+collaboration ,Required,Soft,Software Engineer (Entry Level)
+problem-solving,Required,Soft,Software Engineer (Entry Level)
+analytical mindset,Required,Soft,Software Engineer (Entry Level)
+ETL,Required,Technical,Software Engineer (Entry Level)
+ELT,Required,Technical,Software Engineer (Entry Level)
+SQL,Required,Technical,Software Engineer (Entry Level)
+Data Modeling,Required,Technical,Software Engineer (Entry Level)
+Data Engineering,Required,Technical,Software Engineer (Entry Level)
+Airlfow,Required,Technical,Software Engineer (Entry Level)
+workflow orchestration,Required,Technical,Software Engineer (Entry Level)
+AWS S3,Required,Technical,Software Engineer (Entry Level)
+AWS Redshift,Required,Technical,Software Engineer (Entry Level)
+AWS RDS,Required,Technical,Software Engineer (Entry Level)
+DBT,Optional,Technical,Software Engineer (Entry Level)
+real-time processing,Optional,Technical,Software Engineer (Entry Level)
+Python,Required,Technical,Software Engineer (Entry Level)
+ML,Required,Technical,Software Engineer (Entry Level)
+AI,Required,Technical,Software Engineer (Entry Level)
+LangChain,Required,Technical,Software Engineer (Entry Level)
+TensorFLow,Required,Technical,Software Engineer (Entry Level)
+SQL,Required,Technical,Software Engineer (Entry Level)
+Python,Required,Technical,Software Engineer (Entry Level)
+Git,Required,Technical,Software Engineer (Entry Level)
+Data Modeling,Required,Technical,Software Engineer (Entry Level)
+BI Sigma,Required,Technical,Software Engineer (Entry Level)
+BI Hex,Required,Technical,Software Engineer (Entry Level)
+data analytics,Required,Technical,Software Engineer (Entry Level)
+data workflows,Required,Technical,Software Engineer (Entry Level)
+communication,Required,Soft,Software Engineer (Entry Level)
+business concepts,Required,Soft,Software Engineer (Entry Level)
+Â problem-solverÂ ,Required,Soft,Junior Software Developer
+ self-starter,Required,Soft,Junior Software Developer
+CRM software,Required,Technical,Junior Software Developer
+C#,Required,Technical,Junior Software Developer
+SDKs,Required,Technical,Junior Software Developer
+SQL,Required,Technical,Junior Software Developer
+Microsoft SQL Server,Required,Technical,Junior Software Developer
+JavaScript,Required,Technical,Junior Software Developer
+Leadership,Required,Soft,Junior Software Developer
+Quality Assurance,Required,Technical,Junior Software Developer
+communication,Required,Soft,Junior Software Developer
+Azure,Optional,Technical,Junior Software Developer
+DevOps,Optional,Technical,Junior Software Developer
+APIs,Optional,Technical,Junior Software Developer
+CI/CD,Optional,Technical,Junior Software Developer
+Â .NET,Required,Technical,Junior Software Developer
+VBA,Required,Technical,Junior Software Developer
+C,Required,Technical,Junior Software Developer
+JavaScript,Required,Technical,Junior Software Developer
+RESTful API,Required,Technical,Software Engineer (Entry Level)
+Agile,Required,Technical,Software Engineer (Entry Level)
+AWS,Required,Technical,Software Engineer (Entry Level)
+MySQL,Required,Technical,Software Engineer (Entry Level)
+teamwork,Required,Soft,Software Engineer (Entry Level)
+SQLÂ ,Required,Technical,Software Engineer (Entry Level)
+JavaScript,Required,Technical,Software Engineer (Entry Level)
+Information security,Required,Technical,Software Engineer (Entry Level)
+Artificial Intelligence,Optional,Technical,Software Engineer (Entry Level)
+Python,Required,Technical,Software Engineer (Entry Level)
+System design,Optional,Technical,Software Engineer (Entry Level)
+Git,Optional,Technical,Software Engineer (Entry Level)
+Linux,Optional,Technical,Software Engineer (Entry Level)
+Windows,Optional,Technical,Software Engineer (Entry Level)
+communication,Optional,Soft,Software Engineer (Entry Level)
+ iOS development ,Required,Technical,Software Engineer (Entry Level)
+Object-Oriented Programming,Required,Technical,Software Engineer (Entry Level)
+REST APIs,Required,Technical,Software Engineer (Entry Level)
+C,Optional,Technical,Software Engineer (Entry Level)
+WebSockets,Optional,Technical,Software Engineer (Entry Level)
+git,Optional,Technical,Software Engineer (Entry Level)
+Scala,Required,Technical,Software Engineer (Entry Level)
+Python,Required,Technical,Software Engineer (Entry Level)
+SQL,Required,Technical,Software Engineer (Entry Level)
+Linux,Required,Technical,Software Engineer (Entry Level)
+CRM software,Required,Technical,Software Engineer (Entry Level)
+salesforce,Required,Technical,Software Engineer (Entry Level)
+Agile,Required,Technical,Software Engineer (Entry Level)
+scrum,Required,Technical,Software Engineer (Entry Level)
+Java,Required,Technical,Software Engineer (Entry Level)
+JSNO,Required,Technical,Software Engineer (Entry Level)
+DB2,Required,Technical,Software Engineer (Entry Level)
+MySQL,Required,Technical,Software Engineer (Entry Level)
+SQL,Required,Technical,Software Engineer (Entry Level)
+Apache,Required,Technical,Software Engineer (Entry Level)
+Tomcat,Required,Technical,Software Engineer (Entry Level)
+Warehouse Management Systems,Required,Technical,Software Engineer (Entry Level)
+ERP software,Required,Technical,Software Engineer (Entry Level)
+Scala,Required,Technical,Software Engineer (Entry Level)
+IT,Required,Technical,Software Engineer (Entry Level)
+AWS,Required,Technical,Software Engineer (Entry Level)
+Oracle,Required,Technical,Software Engineer (Entry Level)
+SharePoint,Required,Technical,Software Engineer (Entry Level)
+SparkSQL,Required,Technical,Software Engineer (Entry Level)
+Â PySpark,Required,Technical,Software Engineer (Entry Level)
+Python,Required,Technical,Software Engineer (Entry Level)
+C#,Required,Technical,Software Engineer (Entry Level)
+C,Required,Technical,Software Engineer (Entry Level)
+SQL,Required,Technical,Software Engineer (Entry Level)
+Python,Required,Technical,Software Engineer (Entry Level)
+NoSQL,Optional,Technical,Software Engineer (Entry Level)
+Java,Optional,Technical,Software Engineer (Entry Level)
+Algorithms,Optional,Technical,Software Engineer (Entry Level)
+APIs,Required,Technical,Software Engineer (Entry Level)
+Git,Optional,Technical,Software Engineer (Entry Level)
+Data Structures ,Optional,Technical,Software Engineer (Entry Level)
+Agile,Optional,Technical,Software Engineer (Entry Level)
+C++,Optional,Technical,Software Engineer (Entry Level)
+problem-solving,Required,Soft,Software Engineer (Entry Level)
+Microsoft SQL Server,Required,Technical,Software Engineer (Entry Level)
+HTML,Required,Technical,Software Engineer (Entry Level)
+Git,Required,Technical,Software Engineer (Entry Level)
+JavaScript,Required,Technical,Software Engineer (Entry Level)
+CSS,Optional,Technical,Software Engineer (Entry Level)
+communication,Optional,Soft,Software Engineer (Entry Level)
+Git,Required,Technical,Software Engineer (Entry Level)
+C#,Required,Technical,Software Engineer (Entry Level)
+SVN,Required,Technical,Software Engineer (Entry Level)
+Java,Required,Technical,Software Engineer (Entry Level)
+Python,Required,Technical,Software Engineer (Entry Level)
+Git,Required,Technical,Software Engineer (Entry Level)
+Team collaboration,Required,Soft,Software Engineer (Entry Level)
+Agile/Scrum methodologies,Required,Technical,Software Engineer (Entry Level)
+SQL,Optional,Technical,Software Engineer (Entry Level)
+Communication skills,Required,Soft,Software Engineer (Entry Level)
+RESTful APIs,Required,Technical,Software Engineer (Entry Level)
+AWS/Azure,Optional,Technical,Software Engineer (Entry Level)
+Problem-solving skills,Required,Soft,Software Engineer (Entry Level)
+HTML/CSS,Optional,Technical,Software Engineer (Entry Level)
+C++,Required,Technical,Software Engineer (Entry Level)
+Version control systems,Required,Technical,Software Engineer (Entry Level)
+Cloud computing basics,Optional,Technical,Software Engineer (Entry Level)
+"Unit testing frameworks (JUnit, etc.)",Required,Technical,Software Engineer (Entry Level)
+Debugging,Required,Technical,Software Engineer (Entry Level)
+Adaptability,Required,Soft,Software Engineer (Entry Level)
+Critical thinking,Required,Soft,Software Engineer (Entry Level)
+Time management,Required,Soft,Software Engineer (Entry Level)
+Object-Oriented Programming (OOP),Required,Technical,Software Engineer (Entry Level)
+Continuous Integration/Continuous Deployment (CI/CD),Optional,Technical,Software Engineer (Entry Level)
+Mobile App Development (optional),Optional,Technical,Software Engineer (Entry Level)
+Java,Required,Technical,Software Developer (Entry Level)
+Python,Required,Technical,Software Developer (Entry Level)
+SQL,Required,Technical,Software Developer (Entry Level)
+Problem-solving,Required,Soft,Software Developer (Entry Level)
+Communication skills,Required,Soft,Software Developer (Entry Level)
+Git,Required,Technical,Software Developer (Entry Level)
+Team collaboration,Required,Soft,Software Developer (Entry Level)
+APIs (REST/SOAP),Required,Technical,Software Developer (Entry Level)
+AWS,Required,Technical,Cloud Engineer (Junior)
+Azure,Optional,Technical,Cloud Engineer (Junior)
+Linux,Required,Technical,Cloud Engineer (Junior)
+Python scripting,Required,Technical,Cloud Engineer (Junior)
+Shell scripting,Optional,Technical,Cloud Engineer (Junior)
+Cloud security principles,Required,Technical,Cloud Engineer (Junior)
+Problem-solving,Required,Soft,Cloud Engineer (Junior)
+Node.js,Required,Technical,Backend Developer (Entry Level)
+Django,Optional,Technical,Backend Developer (Entry Level)
+REST APIs,Required,Technical,Backend Developer (Entry Level)
+SQL/NoSQL Databases,Required,Technical,Backend Developer (Entry Level)
+Scalability and performance tuning,Optional,Technical,Backend Developer (Entry Level)
+Teamwork,Required,Soft,Backend Developer (Entry Level)
+HTML,Required,Technical,Frontend Developer (Entry Level)
+CSS,Required,Technical,Frontend Developer (Entry Level)
+JavaScript,Required,Technical,Frontend Developer (Entry Level)
+React.js,Optional,Technical,Frontend Developer (Entry Level)
+UI/UX Principles,Required,Technical,Frontend Developer (Entry Level)
+Attention to Detail,Required,Soft,Frontend Developer (Entry Level)
+"MERN stack (MongoDB, Express, React, Node)",Optional,Technical,Full Stack Developer (Entry Level)
+REST API development,Required,Technical,Full Stack Developer (Entry Level)
+GitHub/Version control,Required,Technical,Full Stack Developer (Entry Level)
+Cross-functional collaboration,Required,Soft,Full Stack Developer (Entry Level)
+Problem-solving,Required,Soft,Full Stack Developer (Entry Level)
+Agile Scrum practices,Required,Technical,Full Stack Developer (Entry Level)
+Testing and debugging,Required,Technical,Full Stack Developer (Entry Level)

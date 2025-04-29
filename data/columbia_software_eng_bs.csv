@@ -1,0 +1,26 @@
+skill,required_elective
+Circuit analysis,Required
+Electrical systems fundamentals,Required
+Programming fundamentals,Required
+Problem-solving,Required
+Data organization,Required
+Algorithm efficiency,Required
+Software development,Required
+Debugging,Required
+Testing,Required
+Computer architecture,Required
+System-level programming,Required
+Analog circuit design,Required
+Digital circuit design,Required
+Electronic components,Required
+Signal processing,Required
+Signal analysis,Required
+System modeling,Required
+Digital logic design,Required
+Hardware description languages,Required
+Language design,Elective
+Compiler construction,Elective
+Software project management,Elective
+Design patterns,Elective
+Machine learning,Elective
+Intelligent systems,Elective

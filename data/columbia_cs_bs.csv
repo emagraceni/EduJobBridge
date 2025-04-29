@@ -1,0 +1,53 @@
+skill,required_elective
+Java programming,Required
+Data structures,Required
+Algorithm analysis,Required
+Advanced programming concepts,Required
+Software development practices,Required
+Discrete mathematics,Required
+Logic,Required
+Set theory,Required
+Combinatorics,Required
+Graph theory,Required
+Automata theory,Required
+Formal languages,Required
+Computational complexity,Required
+Computer architecture,Required
+Operating systems basics,Required
+Calculus,Required
+Linear algebra,Required
+Probability and statistics,Required
+SQL,Elective
+Database design,Elective
+Normalization,Elective
+Distributed computing,Elective
+Concurrency,Elective
+Fault tolerance,Elective
+Language design,Elective
+Compilers,Elective
+Interpreters,Elective
+Process management,Elective
+Memory management,Elective
+File systems,Elective
+Software development lifecycle,Elective
+Design patterns,Elective
+Software testing,Elective
+Artificial intelligence,Elective
+Machine learning,Elective
+Search algorithms,Elective
+Knowledge representation,Elective
+Supervised learning,Elective
+Unsupervised learning,Elective
+Model evaluation,Elective
+Rendering,Elective
+Modeling,Elective
+Visualization,Elective
+Text processing,Elective
+Language models,Elective
+Sentiment analysis,Elective
+Image processing,Elective
+Object recognition,Elective
+Feature extraction,Elective
+Cryptography,Elective
+Network security,Elective
+System vulnerabilities,Elective
