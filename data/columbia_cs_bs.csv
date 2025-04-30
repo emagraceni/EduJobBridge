@@ -1,53 +1,75 @@
-skill,required_elective
-Java programming,Required
-Data structures,Required
-Algorithm analysis,Required
-Advanced programming concepts,Required
-Software development practices,Required
-Discrete mathematics,Required
+Skill,Required_Elective
+Java Programming,Required
+Data Structures,Required
+Algorithm Analysis,Required
+Advanced Programming Concepts,Required
+Software Development Practices,Required
+Discrete Mathematics,Required
 Logic,Required
-Set theory,Required
+Set Theory,Required
 Combinatorics,Required
-Graph theory,Required
-Automata theory,Required
-Formal languages,Required
-Computational complexity,Required
-Computer architecture,Required
-Operating systems basics,Required
+Graph Theory,Required
+Automata Theory,Required
+Formal Languages,Required
+Computational Complexity,Required
+Computer Architecture,Required
+Operating Systems Basics,Required
 Calculus,Required
-Linear algebra,Required
-Probability and statistics,Required
-SQL,Elective
-Database design,Elective
+Linear Algebra,Required
+Probability And Statistics,Required
+Sql,Elective
+Database Design,Elective
 Normalization,Elective
-Distributed computing,Elective
+Distributed Computing,Elective
 Concurrency,Elective
-Fault tolerance,Elective
-Language design,Elective
+Fault Tolerance,Elective
+Language Design,Elective
 Compilers,Elective
 Interpreters,Elective
-Process management,Elective
-Memory management,Elective
-File systems,Elective
-Software development lifecycle,Elective
-Design patterns,Elective
-Software testing,Elective
-Artificial intelligence,Elective
-Machine learning,Elective
-Search algorithms,Elective
-Knowledge representation,Elective
-Supervised learning,Elective
-Unsupervised learning,Elective
-Model evaluation,Elective
+Process Management,Elective
+Memory Management,Elective
+File Systems,Elective
+Software Development Lifecycle,Elective
+Design Patterns,Elective
+Software Testing,Elective
+Artificial Intelligence,Elective
+Machine Learning,Elective
+Search Algorithms,Elective
+Knowledge Representation,Elective
+Supervised Learning,Elective
+Unsupervised Learning,Elective
+Model Evaluation,Elective
 Rendering,Elective
 Modeling,Elective
 Visualization,Elective
-Text processing,Elective
-Language models,Elective
-Sentiment analysis,Elective
-Image processing,Elective
-Object recognition,Elective
-Feature extraction,Elective
+Text Processing,Elective
+Language Models,Elective
+Sentiment Analysis,Elective
+Image Processing,Elective
+Object Recognition,Elective
+Feature Extraction,Elective
 Cryptography,Elective
-Network security,Elective
-System vulnerabilities,Elective
+Network Security,Elective
+System Vulnerabilities,Elective
+Java,Required
+Advanced Programming,Required
+Cs Theory,Required
+Computer Systems,Required
+Probability,Required
+Databases,Elective
+Distributed Systems,Elective
+Programming Languages,Elective
+Operating Systems,Elective
+Computer Networks,Elective
+Software-As-A-Service,Elective
+Software Engineering,Elective
+Computer Graphics,Elective
+Computer Animation,Elective
+User Interface Design,Elective
+Security,Elective
+Algorithms,Elective
+Natural Language Processing,Elective
+Computer Vision,Elective
+Robotics,Elective
+Computational Genomics,Elective
+System-On-Chip Platforms,Elective

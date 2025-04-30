@@ -1,0 +1,110 @@
+Skill,Type,Required,Job Title,Company,Location,Posting Date
+Python,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Java,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Problem-solving,Soft,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Communication,Soft,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Git/GitHub,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Agile Methodologies,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Database Management,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Data Structures,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Algorithms,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Object-Oriented Programming,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Operating Systems,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+C,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+C++,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+C#,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+JavaScript,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+HTML,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+CSS,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+SQL,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+NoSQL,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+RESTful APIs,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+SOAP,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Microservices,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+AWS,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Azure,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+GCP,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Linux/UNIX,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Windows OS,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+SQL Server,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+MySQL,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Oracle DB,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+MongoDB,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Node.js,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+React.js,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Angular,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Vue.js,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Django,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+Spring Boot,Technical,Yes,Software Engineer (Entry Level),SynergisticIT,Gaithersburg, MD,Posted 2 months ago
+REST APIs,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+JavaScript,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+Teamwork,Soft,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+Unit Testing,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+Problem-solving,Soft,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+Self-Starter,Soft,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+CRM Software,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+C#,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+SDKs,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+SQL,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+Microsoft SQL Server,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+Leadership,Soft,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+Quality Assurance,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+Communication,Soft,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+Azure,Technical,No,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+DevOps,Technical,No,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+APIs,Technical,No,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+CI/CD,Technical,No,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+.NET,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+VBA,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+C,Technical,Yes,Junior Software Developer,QuantumLeap Technologies,Remote (Seattle, WA),Employer Active 11 days ago
+Test Automation,Technical,Yes,QA Engineer,LogicQ LLC,Greenwood Village, CO,Posted April 2025
+Selenium,Technical,Yes,QA Engineer,LogicQ LLC,Greenwood Village, CO,Posted April 2025
+Attention to Detail,Soft,Yes,QA Engineer,LogicQ LLC,Greenwood Village, CO,Posted April 2025
+Analytical Thinking,Soft,Yes,QA Engineer,LogicQ LLC,Greenwood Village, CO,Posted April 2025
+Communication,Soft,Yes,QA Engineer,LogicQ LLC,Greenwood Village, CO,Posted April 2025
+HTML/CSS,Technical,Yes,Web Developer (Entry Level),WTJ Corporation,Falls Church, VA,Posted April 2025
+JavaScript,Technical,Yes,Web Developer (Entry Level),WTJ Corporation,Falls Church, VA,Posted April 2025
+Responsive Design,Technical,Yes,Web Developer (Entry Level),WTJ Corporation,Falls Church, VA,Posted April 2025
+Debugging,Technical,Yes,Web Developer (Entry Level),WTJ Corporation,Falls Church, VA,Posted April 2025
+Time Management,Soft,Yes,Web Developer (Entry Level),WTJ Corporation,Falls Church, VA,Posted April 2025
+SQL,Technical,Yes,Application Support Engineer,Sierra Circuits,San Jose, CA,Posted April 2025
+Troubleshooting,Technical,Yes,Application Support Engineer,Sierra Circuits,San Jose, CA,Posted April 2025
+Customer Service,Soft,Yes,Application Support Engineer,Sierra Circuits,San Jose, CA,Posted April 2025
+Unix/Linux,Technical,Yes,Application Support Engineer,Sierra Circuits,San Jose, CA,Posted April 2025
+Scripting,Technical,Yes,Application Support Engineer,Sierra Circuits,San Jose, CA,Posted April 2025
+Analytical Skills,Soft,Yes,Application Support Engineer,Sierra Circuits,San Jose, CA,Posted April 2025
+Java,Technical,Yes,Software Developer (Entry Level),Hyadestech Inc,Santa Clara, CA,Posted April 2025
+C,Technical,Yes,Software Developer (Entry Level),Hyadestech Inc,Santa Clara, CA,Posted April 2025
+C++,Technical,Yes,Software Developer (Entry Level),Hyadestech Inc,Santa Clara, CA,Posted April 2025
+Python,Technical,Yes,Software Developer (Entry Level),Hyadestech Inc,Santa Clara, CA,Posted April 2025
+SQL,Technical,Yes,Software Developer (Entry Level),Hyadestech Inc,Santa Clara, CA,Posted April 2025
+Problem-solving,Soft,Yes,Software Developer (Entry Level),Hyadestech Inc,Santa Clara, CA,Posted April 2025
+Communication,Soft,Yes,Software Developer (Entry Level),Hyadestech Inc,Santa Clara, CA,Posted April 2025
+Team Collaboration,Soft,Yes,Software Developer (Entry Level),Hyadestech Inc,Santa Clara, CA,Posted April 2025
+AWS,Technical,Yes,Cloud Engineer (Junior),Quzara LLC,Remote (United States),Posted April 2025
+Azure,Technical,Yes,Cloud Engineer (Junior),Quzara LLC,Remote (United States),Posted April 2025
+Virtualization,Technical,Yes,Cloud Engineer (Junior),Quzara LLC,Remote (United States),Posted April 2025
+Containerization (Docker/Kubernetes),Technical,Yes,Cloud Engineer (Junior),Quzara LLC,Remote (United States),Posted April 2025
+Scripting (Shell/Python),Technical,Yes,Cloud Engineer (Junior),Quzara LLC,Remote (United States),Posted April 2025
+Networking,Technical,Yes,Cloud Engineer (Junior),Quzara LLC,Remote (United States),Posted April 2025
+Problem-solving,Soft,Yes,Cloud Engineer (Junior),Quzara LLC,Remote (United States),Posted April 2025
+Teamwork,Soft,Yes,Cloud Engineer (Junior),Quzara LLC,Remote (United States),Posted April 2025
+Java,Technical,Yes,Backend Developer (Entry Level),Cognizant,Remote (Durham, NC),Employer Active 3 days ago
+Python,Technical,Yes,Backend Developer (Entry Level),Cognizant,Remote (Durham, NC),Employer Active 3 days ago
+SQL,Technical,Yes,Backend Developer (Entry Level),Cognizant,Remote (Durham, NC),Employer Active 3 days ago
+APIs,Technical,Yes,Backend Developer (Entry Level),Cognizant,Remote (Durham, NC),Employer Active 3 days ago
+Problem-solving,Soft,Yes,Backend Developer (Entry Level),Cognizant,Remote (Durham, NC),Employer Active 3 days ago
+Communication,Soft,Yes,Backend Developer (Entry Level),Cognizant,Remote (Durham, NC),Employer Active 3 days ago
+HTML,Technical,Yes,Frontend Developer (Entry Level),Neurodiversity Employment Network,Philadelphia, PA,Posted 1 day ago
+CSS,Technical,Yes,Frontend Developer (Entry Level),Neurodiversity Employment Network,Philadelphia, PA,Posted 1 day ago
+JavaScript,Technical,Yes,Frontend Developer (Entry Level),Neurodiversity Employment Network,Philadelphia, PA,Posted 1 day ago
+React.js,Technical,No,Frontend Developer (Entry Level),Neurodiversity Employment Network,Philadelphia, PA,Posted 1 day ago
+UI/UX Principles,Technical,Yes,Frontend Developer (Entry Level),Neurodiversity Employment Network,Philadelphia, PA,Posted 1 day ago
+Attention to Detail,Soft,Yes,Frontend Developer (Entry Level),Neurodiversity Employment Network,Philadelphia, PA,Posted 1 day ago
+JavaScript,Technical,Yes,Full Stack Developer (Entry Level),Slant 3D,Boise, ID,Posted April 2025
+Python,Technical,Yes,Full Stack Developer (Entry Level),Slant 3D,Boise, ID,Posted April 2025
+React,Technical,Yes,Full Stack Developer (Entry Level),Slant 3D,Boise, ID,Posted April 2025
+SQL,Technical,Yes,Full Stack Developer (Entry Level),Slant 3D,Boise, ID,Posted April 2025
+AWS,Technical,Yes,Full Stack Developer (Entry Level),Slant 3D,Boise, ID,Posted April 2025
+Linux,Technical,Yes,Full Stack Developer (Entry Level),Slant 3D,Boise, ID,Posted April 2025
+MERN stack (MongoDB, Express, React, Node),Technical,No,Full Stack Developer (Entry Level),Slant 3D,Boise, ID,Posted April 2025

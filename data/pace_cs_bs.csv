@@ -1,29 +1,49 @@
-skill,required_elective
-Programming fundamentals,Required
-Problem-solving techniques,Required
-Object-oriented design,Required
-Software development,Required
-Computer architecture,Required
-Hardware-software interaction,Required
-Data organization,Required
-Algorithm efficiency,Required
-Algorithm design,Required
-Complexity analysis,Required
-Professional development,Required
-Career planning,Required
-Research methodologies,Required
-Societal impact analysis,Required
-Programming paradigms,Required
-Language implementation,Required
-Operating system concepts,Required
-Process management,Required
-Network programming,Required
-Distributed systems,Required
-Software development lifecycle,Required
-Project management,Required
-Calculus fundamentals,Required
-Advanced calculus concepts,Required
-Statistical methods,Required
-Data interpretation,Required
-Scientific principles,Required
-Experimental techniques,Required
+Skill,Required_Elective
+Programming Fundamentals,Required
+Problem-Solving Techniques,Required
+Object-Oriented Design,Required
+Software Development,Required
+Computer Architecture,Required
+Hardware-Software Interaction,Required
+Data Organization,Required
+Algorithm Efficiency,Required
+Algorithm Design,Required
+Complexity Analysis,Required
+Professional Development,Required
+Career Planning,Required
+Research Methodologies,Required
+Societal Impact Analysis,Required
+Programming Paradigms,Required
+Language Implementation,Required
+Operating System Concepts,Required
+Process Management,Required
+Network Programming,Required
+Distributed Systems,Required
+Software Development Lifecycle,Required
+Project Management,Required
+Calculus Fundamentals,Required
+Advanced Calculus Concepts,Required
+Statistical Methods,Required
+Data Interpretation,Required
+Scientific Principles,Required
+Experimental Techniques,Required
+Python,Required
+Problem Solving,Required
+Optimization,Required
+Probability,Required
+Statistics,Required
+Java,Required
+I/O Devices,Required
+Assembly Language Prorgrams,Required
+Parallel Processing,Required
+Abstract Data Types,Required
+Data Structures,Required
+Communication,Required
+File Systmes Interface,Required
+Internet,Required
+Cloud Computing,Required
+Web Services,Required
+Aws,Required
+Agile Methodologies,Required
+Bioinformatics,Elective
+Etl,Required

@@ -1,27 +1,60 @@
-skill,required_elective
-Programming fundamentals,Required
-Problem-solving techniques,Required
-Data organization,Required
-Algorithm efficiency,Required
-Object-oriented design,Required
-Software development,Required
-Computer architecture,Required
-Hardware-software interaction,Required
-Operating system concepts,Required
-Process management,Required
-Algorithm design,Required
-Complexity analysis,Required
-Software development lifecycle,Required
-Project management,Required
-Practical application,Required
+Skill,Required_Elective
+Programming Fundamentals,Required
+Problem-Solving Techniques,Required
+Data Organization,Required
+Algorithm Efficiency,Required
+Object-Oriented Design,Required
+Software Development,Required
+Computer Architecture,Required
+Hardware-Software Interaction,Required
+Operating System Concepts,Required
+Process Management,Required
+Algorithm Design,Required
+Complexity Analysis,Required
+Software Development Lifecycle,Required
+Project Management,Required
+Practical Application,Required
 Teamwork,Required
-Project execution,Required
-Calculus fundamentals,Required
-Advanced calculus concepts,Required
+Project Execution,Required
+Calculus Fundamentals,Required
+Advanced Calculus Concepts,Required
 Logic,Required
-Set theory,Required
+Set Theory,Required
 Combinatorics,Required
-Statistical methods,Required
-Data interpretation,Required
-Engineering principles,Required
-Design thinking,Required
+Statistical Methods,Required
+Data Interpretation,Required
+Engineering Principles,Required
+Design Thinking,Required
+Python,Required
+Problem Solving,Required
+Optimization,Required
+I/O Devices,Required
+Assembly Language Programs,Required
+Data Structures,Required
+Communication,Required
+Cloud Computing,Required
+Agile Methodologies,Required
+Matlab,Required
+Devops,Elective
+Application Architecture,Elective
+Full-Stack Development,Elective
+Client-Side Interactivity,Elective
+Nlp,Elective
+C++,Elective
+Java,Elective
+Ai,Elective
+Machine Learning,Elective
+Linux,Elective
+Sql,Elective
+Hadoop,Elective
+Apache,Elective
+Spark,Elective
+Encryption,Elective
+Cloud Databases,Elective
+Computer Vision,Elective
+Operating Systems,Required
+Algorithms,Required
+Discrete Mathematics,Required
+Calculus,Required
+Software Engineering,Elective
+Artificial Intelligence,Elective

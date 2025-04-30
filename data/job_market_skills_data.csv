@@ -230,3 +230,142 @@ Cross-functional collaboration,Required,Soft,Full Stack Developer (Entry Level)
 Problem-solving,Required,Soft,Full Stack Developer (Entry Level)
 Agile Scrum practices,Required,Technical,Full Stack Developer (Entry Level)
 Testing and debugging,Required,Technical,Full Stack Developer (Entry Level)
+Python,Technical,Yes,Software Engineer (Entry Level)
+Java,Technical,Yes,Software Engineer (Entry Level)
+Problem-solving,Soft,Yes,Software Engineer (Entry Level)
+Communication,Soft,Yes,Software Engineer (Entry Level)
+Git/GitHub,Technical,Yes,Software Engineer (Entry Level)
+Agile Methodologies,Technical,Yes,Software Engineer (Entry Level)
+Database Management,Technical,Yes,Software Engineer (Entry Level)
+Data Structures,Technical,Yes,Software Engineer (Entry Level)
+Algorithms,Technical,Yes,Software Engineer (Entry Level)
+Object-Oriented Programming,Technical,Yes,Software Engineer (Entry Level)
+Operating Systems,Technical,Yes,Software Engineer (Entry Level)
+C,Technical,Yes,Software Engineer (Entry Level)
+C++,Technical,Yes,Software Engineer (Entry Level)
+C#,Technical,Yes,Software Engineer (Entry Level)
+JavaScript,Technical,Yes,Software Engineer (Entry Level)
+HTML,Technical,Yes,Software Engineer (Entry Level)
+CSS,Technical,Yes,Software Engineer (Entry Level)
+SQL,Technical,Yes,Software Engineer (Entry Level)
+NoSQL,Technical,Yes,Software Engineer (Entry Level)
+RESTful APIs,Technical,Yes,Software Engineer (Entry Level)
+SOAP,Technical,Yes,Software Engineer (Entry Level)
+Microservices,Technical,Yes,Software Engineer (Entry Level)
+AWS,Technical,Yes,Software Engineer (Entry Level)
+Azure,Technical,Yes,Software Engineer (Entry Level)
+GCP,Technical,Yes,Software Engineer (Entry Level)
+Linux/UNIX,Technical,Yes,Software Engineer (Entry Level)
+Windows OS,Technical,Yes,Software Engineer (Entry Level)
+SQL Server,Technical,Yes,Software Engineer (Entry Level)
+MySQL,Technical,Yes,Software Engineer (Entry Level)
+Oracle DB,Technical,Yes,Software Engineer (Entry Level)
+MongoDB,Technical,Yes,Software Engineer (Entry Level)
+Node.js,Technical,Yes,Software Engineer (Entry Level)
+React.js,Technical,Yes,Software Engineer (Entry Level)
+Angular,Technical,Yes,Software Engineer (Entry Level)
+Vue.js,Technical,Yes,Software Engineer (Entry Level)
+Django,Technical,Yes,Software Engineer (Entry Level)
+Spring Boot,Technical,Yes,Software Engineer (Entry Level)
+REST APIs,Technical,Yes,Junior Software Developer
+JavaScript,Technical,Yes,Junior Software Developer
+Teamwork,Soft,Yes,Junior Software Developer
+Unit Testing,Technical,Yes,Junior Software Developer
+Problem-solving,Soft,Yes,Junior Software Developer
+Self-Starter,Soft,Yes,Junior Software Developer
+CRM Software,Technical,Yes,Junior Software Developer
+C#,Technical,Yes,Junior Software Developer
+SDKs,Technical,Yes,Junior Software Developer
+SQL,Technical,Yes,Junior Software Developer
+Microsoft SQL Server,Technical,Yes,Junior Software Developer
+Leadership,Soft,Yes,Junior Software Developer
+Quality Assurance,Technical,Yes,Junior Software Developer
+Communication,Soft,Yes,Junior Software Developer
+Azure,Technical,No,Junior Software Developer
+DevOps,Technical,No,Junior Software Developer
+APIs,Technical,No,Junior Software Developer
+CI/CD,Technical,No,Junior Software Developer
+.NET,Technical,Yes,Junior Software Developer
+VBA,Technical,Yes,Junior Software Developer
+C,Technical,Yes,Junior Software Developer
+Test Automation,Technical,Yes,QA Engineer
+Selenium,Technical,Yes,QA Engineer
+Attention to Detail,Soft,Yes,QA Engineer
+Analytical Thinking,Soft,Yes,QA Engineer
+Communication,Soft,Yes,QA Engineer
+HTML/CSS,Technical,Yes,Web Developer (Entry Level)
+JavaScript,Technical,Yes,Web Developer (Entry Level)
+Responsive Design,Technical,Yes,Web Developer (Entry Level)
+Debugging,Technical,Yes,Web Developer (Entry Level)
+Time Management,Soft,Yes,Web Developer (Entry Level)
+SQL,Technical,Yes,Application Support Engineer
+Troubleshooting,Technical,Yes,Application Support Engineer
+Customer Service,Soft,Yes,Application Support Engineer
+Unix/Linux,Technical,Yes,Application Support Engineer
+Scripting,Technical,Yes,Application Support Engineer
+Analytical Skills,Soft,Yes,Application Support Engineer
+Java,Technical,Yes,Software Developer (Entry Level)
+C,Technical,Yes,Software Developer (Entry Level)
+C++,Technical,Yes,Software Developer (Entry Level)
+Python,Technical,Yes,Software Developer (Entry Level)
+SQL,Technical,Yes,Software Developer (Entry Level)
+Problem-solving,Soft,Yes,Software Developer (Entry Level)
+Communication,Soft,Yes,Software Developer (Entry Level)
+Team Collaboration,Soft,Yes,Software Developer (Entry Level)
+AWS,Technical,Yes,Cloud Engineer (Junior)
+Azure,Technical,Yes,Cloud Engineer (Junior)
+Virtualization,Technical,Yes,Cloud Engineer (Junior)
+Containerization (Docker/Kubernetes),Technical,Yes,Cloud Engineer (Junior)
+Scripting (Shell/Python),Technical,Yes,Cloud Engineer (Junior)
+Networking,Technical,Yes,Cloud Engineer (Junior)
+Problem-solving,Soft,Yes,Cloud Engineer (Junior)
+Teamwork,Soft,Yes,Cloud Engineer (Junior)
+Java,Technical,Yes,Backend Developer (Entry Level)
+Python,Technical,Yes,Backend Developer (Entry Level)
+SQL,Technical,Yes,Backend Developer (Entry Level)
+APIs,Technical,Yes,Backend Developer (Entry Level)
+Problem-solving,Soft,Yes,Backend Developer (Entry Level)
+Communication,Soft,Yes,Backend Developer (Entry Level)
+HTML,Technical,Yes,Frontend Developer (Entry Level)
+CSS,Technical,Yes,Frontend Developer (Entry Level)
+JavaScript,Technical,Yes,Frontend Developer (Entry Level)
+React.js,Technical,No,Frontend Developer (Entry Level)
+UI/UX Principles,Technical,Yes,Frontend Developer (Entry Level)
+Attention to Detail,Soft,Yes,Frontend Developer (Entry Level)
+JavaScript,Technical,Yes,Full Stack Developer (Entry Level)
+Python,Technical,Yes,Full Stack Developer (Entry Level)
+React,Technical,Yes,Full Stack Developer (Entry Level)
+SQL,Technical,Yes,Full Stack Developer (Entry Level)
+AWS,Technical,Yes,Full Stack Developer (Entry Level)
+Linux,Technical,Yes,Full Stack Developer (Entry Level)
+MERN stack (MongoDB, Express, React,Full Stack Developer (Entry Level)
+Python,Technical,Yes,Entry-Level Backend Developer
+Django,Technical,Yes,Entry-Level Backend Developer
+SQL,Technical,Yes,Entry-Level Backend Developer
+APIs,Technical,Yes,Entry-Level Backend Developer
+Problem-solving,Soft,Yes,Entry-Level Backend Developer
+Communication,Soft,Yes,Entry-Level Backend Developer
+Git,Technical,Yes,Junior Frontend Developer
+React,Technical,Yes,Junior Frontend Developer
+JavaScript,Technical,Yes,Junior Frontend Developer
+CSS,Technical,Yes,Junior Frontend Developer
+Figma,Technical,No,Junior Frontend Developer
+Attention to Detail,Soft,Yes,Junior Frontend Developer
+Java,Technical,Yes,Associate Software Engineer
+Spring Boot,Technical,Yes,Associate Software Engineer
+REST APIs,Technical,Yes,Associate Software Engineer
+Docker,Technical,No,Associate Software Engineer
+Agile,Technical,Yes,Associate Software Engineer
+Teamwork,Soft,Yes,Associate Software Engineer
+C#,Technical,Yes,Junior .NET Developer
+.NET Core,Technical,Yes,Junior .NET Developer
+Entity Framework,Technical,Yes,Junior .NET Developer
+SQL Server,Technical,Yes,Junior .NET Developer
+Critical Thinking,Soft,Yes,Junior .NET Developer
+Adaptability,Soft,Yes,Junior .NET Developer
+Cloud Computing,Technical,Yes,Software Developer Intern
+Node.js,Technical,Yes,Software Developer Intern
+MongoDB,Technical,Yes,Software Developer Intern
+RESTful APIs,Technical,Yes,Software Developer Intern
+Initiative,Soft,Yes,Software Developer Intern
+Time Management,Soft,Yes,Software Developer Intern
