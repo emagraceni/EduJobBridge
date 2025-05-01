@@ -1,62 +1,46 @@
-
 from app.skill_cleaner import clean_skills_in_dataframe
-from collections import Counter
+from app.synonym_mapper import standardize_skill_name
+from rapidfuzz import fuzz
 
-def calculate_program_score(job_df, program_df):
-    # Count job skill frequency
-    job_df['Skill'] = job_df['Skill'].str.strip()
-    skill_counts = Counter(job_df['Skill'])
+def calculate_program_score(job_skills_df, program_skills_df):
+    # Clean and normalize
+    job_skills_df = clean_skills_in_dataframe(job_skills_df, skill_column='Skill')
+    program_skills_df = clean_skills_in_dataframe(program_skills_df, skill_column='Skill')
+    job_skills_df['Skill'] = job_skills_df['Skill'].apply(standardize_skill_name)
+    program_skills_df['Skill'] = program_skills_df['Skill'].apply(standardize_skill_name)
 
-    # Weight job skills by frequency
-    job_df['Weight'] = job_df['Skill'].map(lambda s: skill_counts[s] / len(job_df))
-
-    # Filter top N job market skills
-    top_skills = job_df.sort_values(by='Weight', ascending=False).drop_duplicates(subset='Skill').head(50)
-
-    # Match skills between program and job market
+    total_weight = 0
+    matched_weight = 0
     matched_skills = []
     missing_skills = []
 
-    for _, row in top_skills.iterrows():
-        skill = row['Skill']
-        matched = program_df[program_df['Skill'].str.lower() == skill.lower()]
-        if not matched.empty:
-            matched_skills.append(skill)
-        else:
-            missing_skills.append(skill)
+    for _, job_row in job_skills_df.iterrows():
+        job_skill = job_row['Skill']
+        is_required = str(job_row.get("Required", "required")).strip().lower() == "required"
+        freq_weight = job_row.get("Frequency", 1)
+        weight = freq_weight * (2 if is_required else 1)
+        total_weight += weight
 
-    # Ensure 'Required' column exists
-    if 'Required' not in program_df.columns:
-        program_df['Required'] = 'Required'
+        matched = False
+        for _, prog_row in program_skills_df.iterrows():
+            prog_skill = prog_row['Skill']
+            if fuzz.token_sort_ratio(job_skill, prog_skill) >= 85:
+                matched_skills.append(job_skill)
+                matched_weight += weight
+                matched = True
+                break
 
-    # Calculate score
-    total_score = 0
-    max_possible_score = 0
+        if not matched:
+            missing_skills.append(job_skill)
 
-    for _, row in top_skills.iterrows():
-        skill = row['Skill']
-        weight = row['Weight']
-        max_possible_score += weight * 2  # 2 if required, 1 if optional
+    score = (matched_weight / total_weight) * 100 if total_weight else 0
+    final_score = min(round(score + 15, 1), 100.0)  # normalization and cap
 
-        match_row = program_df[program_df['Skill'].str.lower() == skill.lower()]
-        if not match_row.empty:
-            required_val = match_row.iloc[0].get('Required', 'Required').strip().lower()
-            if required_val == 'required':
-                total_score += weight * 2
-            else:
-                total_score += weight * 1
-
-    raw_score = (total_score / max_possible_score) * 100 if max_possible_score > 0 else 0
-
-    # Apply normalization
-    base_score = 15
-    scaling_factor = 1.25
-    adjusted_score = base_score + raw_score * scaling_factor
-    adjusted_score = min(round(adjusted_score, 2), 100.0)
+    top_skills = job_skills_df['Skill'].value_counts().reset_index().head(10).values.tolist()
 
     return {
-        "score": adjusted_score,
+        "score": final_score,
         "matched_skills": matched_skills,
         "missing_skills": missing_skills,
-        "top_skills": top_skills[['Skill', 'Weight']].reset_index(drop=True)
+        "top_skills": top_skills
     }

@@ -2,7 +2,7 @@
 from rapidfuzz import process, fuzz
 import pandas as pd
 
-def clean_skills(skill_list, threshold=90):
+def clean_skills(skill_list, threshold=80):
     """
     Cleans and standardizes a list of skills using fuzzy matching.
 
@@ -32,7 +32,7 @@ def clean_skills(skill_list, threshold=90):
 
     return cleaned_skills
 
-def clean_skills_in_dataframe(df, skill_column='Skill', threshold=90):
+def clean_skills_in_dataframe(df, skill_column='Skill', threshold=70):
     """
     Cleans a dataframe's skill column using fuzzy matching.
 

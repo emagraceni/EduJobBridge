@@ -1,5 +1,5 @@
 Skill,Required_Elective
-Programming Fundamentals,Required
+Programming ,Required
 Problem-Solving Techniques,Required
 Object-Oriented Design,Required
 Software Development,Required
@@ -27,3 +27,4 @@ Statistical Methods,Required
 Data Interpretation,Required
 Scientific Principles,Required
 Experimental Techniques,Required
+Python,Required

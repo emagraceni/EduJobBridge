@@ -1,6 +1,4 @@
 
-import pandas as pd
-
 synonym_dict = {
     "oop": "object-oriented programming",
     "object oriented programming": "object-oriented programming",
@@ -15,10 +13,24 @@ synonym_dict = {
     "azure devops": "azure",
     "sql server": "sql",
     "communication skills": "communication",
-    "problem solving": "problem-solving"
+    "problem solving": "problem-solving",
+    "ml": "machine learning",
+    "ai": "artificial intelligence",
+    "sql programming": "sql",
+    "python programming": "python",
+    "csharp": "c#",
+    "c++ programming": "c++",
+    "git version control": "git"
 }
+
+def standardize_skill_name(skill):
+    if not isinstance(skill, str):
+        return skill
+    return synonym_dict.get(skill.strip().lower(), skill.strip().lower())
+
+import pandas as pd
 
 def map_synonyms(df, column='Skill'):
     df[column] = df[column].astype(str).str.strip().str.lower()
-    df[column] = df[column].apply(lambda skill: synonym_dict.get(skill, skill))
+    df[column] = df[column].apply(standardize_skill_name)
     return df
