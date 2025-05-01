@@ -1,77 +1,107 @@
+# EduJobBridge 🎓💼
 
-# 🧠 EduJobBridge
-
-**EduJobBridge** is a data-driven tool that evaluates how well university computer science programs prepare students for industry-required skills.
-
-It compares course offerings from schools like **Columbia**, **Pace**, and **NYU** against in-demand skills gathered from real job listings on platforms like LinkedIn and Indeed.
+EduJobBridge is a data-driven platform that analyzes how well university programs prepare students for the job market based on skill alignment. It compares course offerings from academic programs against required skills in real-world job postings and calculates a match score using weighted, normalized logic.
 
 ---
 
-## 🧩 Project Features
+## 🚀 Features
 
-✅ Extracts top technical & soft skills from job descriptions  
-✅ Evaluates university programs based on how many of those skills they cover  
-✅ Scores each program based on whether skills are taught in **required** or **elective** courses  
-✅ Fully interactive **Streamlit dashboard** for uploading data and viewing results
+- 🔍 **Skill Matching**: Compares program skills with job market demands.
+- 🧠 **Scoring Logic**: Uses fuzzy matching, synonym mapping, and skill frequency weights.
+- 📊 **Interactive Dashboard**: Built with Streamlit, lets users select and score programs.
+- 🧼 **Data Cleaning Pipeline**: Standardizes and maps skills for fair comparison.
+- 💡 **Visual Results**: Displays matched, missing, and top job skills side-by-side.
 
 ---
 
-## 📂 Folder Structure
+## ⚙️ How It Works
+
+1. **Extract Skills**
+   - Job postings (e.g. from LinkedIn/Indeed): skill + required/optional + frequency
+   - University programs: skill + required/elective
+
+2. **Clean & Normalize**
+   - Synonym mapping (`"js"` → `"javascript"`)
+   - Fuzzy matching using `rapidfuzz`
+   - Lowercasing, trimming, injection of default soft skills
+
+3. **Scoring Formula**
+   - Each job skill is weighted by:
+     ```
+     frequency × (2 if required else 1)
+     ```
+   - Program skill matches are scored based on importance and role
+   - Final score:
+     ```
+     (matched_weight / total_weight) × 100 + 15 (base score), capped at 100
+     ```
+
+---
+
+## 📂 Directory Structure
 
 ```
 EduJobBridge/
-├── data/                  # CSVs for job market skills + each school's curriculum
-├── scripts/               # Streamlit app and scoring logic
-├── docs/                  # Literature review and reference material
-├── .gitignore
-├── requirements.txt       # Python dependencies
-└── README.md              # You're here!
+│
+├── app/
+│   ├── app_main.py              # Streamlit front-end
+│   ├── score_calculator.py      # Scoring logic
+│   ├── skill_cleaner.py         # Preprocessing logic
+│   ├── synonym_mapper.py        # Synonym normalization
+│   └── soft_skill_injector.py   # Soft skill injection
+│
+├── data/
+│   ├── job_market_skills_data.csv
+│   ├── columbia_cs_bs.csv
+│   ├── pace_software_eng_bs.csv
+│   └── ...
+│
+├── requirements.txt
+└── README.md
 ```
 
 ---
 
-## 🚀 How to Run
+## 💻 Run Locally
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/emagraceni/EduJobBridge.git
-   cd EduJobBridge
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Launch the Streamlit app:
-   ```bash
-   streamlit run scripts/app.py
-   ```
-
-4. Use the dashboard to upload:
-   - A job market skills CSV (e.g., `job_market_skills_data.csv`)
-   - A school program CSV (e.g., `columbia_skills.csv`)
-
-The app will score the program and display:
-- Covered skills ✅  
-- Missing skills ❌  
-- A match score out of 100% 📊
+```bash
+git clone https://github.com/emagraceni/EduJobBridge.git
+cd EduJobBridge
+pip install -r requirements.txt
+streamlit run app/app_main.py
+```
 
 ---
 
-## ✍️ Contributing
+## 🌐 Deploy on Streamlit Cloud
 
-Want to help add more schools? Improve the UI? Automate scraping? You’re welcome to contribute!
+1. Push your repo to GitHub
+2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
+3. Choose:
+   - Repo: `emagraceni/EduJobBridge`
+   - App file: `app/app_main.py`
+4. Click **Deploy**
 
-1. Fork the repo
-2. Create a new branch
-3. Commit and push changes
-4. Submit a pull request
+---
+
+## 📈 Future Improvements
+
+- Automated scraping of program and job skills
+- NLP classification for course descriptions
+- Role-specific filters (e.g., "Data Analyst" vs "ML Engineer")
+- Public platform with user login and dashboards
 
 ---
 
-## 📚 Credits
+## 👩‍💻 Built With
 
-Created by **@emagraceni** as part of an academic + portfolio project.  
+- 🐍 Python
+- 🧠 Pandas, RapidFuzz
+- 🌐 Streamlit
+- 💡 Manual data extraction + skill injection
 
 ---
+
+## 📬 Contact
+
+Feel free to connect or contribute!
